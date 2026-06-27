@@ -1,0 +1,10 @@
+# Obsidian workspace state (personal, changes on every open)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Claude Code
+.claude/
+
+# Agent files
+.agents/
