@@ -59,9 +59,9 @@
 ### ⚙️ Backend
 | 폴더 | 직무 | 상태 |
 |---|---|:---:|
-| `Backend/API-Developer` | [API Developer](Backend/API-Developer) | 🔄 |
-| `Backend/Server-Side-Developer` | [Server-Side Developer](Backend/Server-Side-Developer) | 🔄 |
-| `Backend/Embedded-Systems-Developer` | [Embedded Systems Developer](Backend/Embedded-Systems-Developer) | 🔄 |
+| `Backend/API-Developer` | [API Developer](Backend/API-Developer) | ✅ |
+| `Backend/Server-Side-Developer` | [Server-Side Developer](Backend/Server-Side-Developer) | ✅ |
+| `Backend/Embedded-Systems-Developer` | [Embedded Systems Developer](Backend/Embedded-Systems-Developer) | ✅ |
 
 ### 🔄 Fullstack
 | 폴더 | 직무 | 상태 |
