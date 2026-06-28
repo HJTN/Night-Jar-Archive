@@ -116,7 +116,7 @@
 |---|---|:---:|
 | `Architecture/Software-Architect` | [Software Architect](Architecture/Software-Architect) | 🔄 |
 | `Architecture/Solution-Architect` | [Solution Architect](Architecture/Solution-Architect) | 🔄 |
-| `Architecture/CTO` | [CTO / Technical Executive](Architecture/CTO) | 🔄 |
+| `Architecture/CTO` | [CTO / Technical Executive](Architecture/CTO) | ✅ |
 
 ### 📌 Other
 | 폴더 | 직무 | 상태 |
