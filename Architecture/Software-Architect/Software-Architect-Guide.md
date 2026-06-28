@@ -84,7 +84,7 @@ quadrantChart
     x-axis 단순성 낮음 --> 단순성 높음
     y-axis 성능 낮음 --> 성능 높음
     quadrant-1 유연하지만 복잡
-    quadrant-2 이상적 (어렵지만 목표)
+    quadrant-2 이상적 목표
     quadrant-3 단순하지만 한계
     quadrant-4 단순하고 빠름
     Monolith: [0.8, 0.4]
