@@ -114,8 +114,8 @@
 ### 🏛️ Architecture
 | 폴더 | 직무 | 상태 |
 |---|---|:---:|
-| `Architecture/Software-Architect` | [Software Architect](Architecture/Software-Architect) | 🔄 |
-| `Architecture/Solution-Architect` | [Solution Architect](Architecture/Solution-Architect) | 🔄 |
+| `Architecture/Software-Architect` | [Software Architect](Architecture/Software-Architect) | ✅ |
+| `Architecture/Solution-Architect` | [Solution Architect](Architecture/Solution-Architect) | ✅ |
 | `Architecture/CTO` | [CTO / Technical Executive](Architecture/CTO) | ✅ |
 
 ### 📌 Other
